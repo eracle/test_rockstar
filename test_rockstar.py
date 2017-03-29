@@ -1,1 +1,1 @@
-724d7072-1463-11e7-84ef-50b7c3118d58
+print('Testing Rockstar python library: https://github.com/avinassh/rockstar')
